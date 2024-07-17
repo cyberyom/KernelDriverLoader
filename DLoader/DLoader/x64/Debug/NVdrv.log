@@ -1,0 +1,5 @@
+﻿  main.cpp
+  NVDrv.cpp
+C:\Users\clafl\Documents\GitHub\test\NVDrv\NVDrv\NVDrv.cpp(227,26): warning C4244: '=': conversion from 'DWORD64' to 'int', possible loss of data
+  Generating Code...
+  NVdrv.vcxproj -> C:\Users\clafl\Documents\GitHub\test\NVDrv\NVDrv\x64\Debug\DLoader.exe

@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KMDF Driver2", "KMDF Driver2\KMDF Driver2.vcxproj", "{75640133-3345-4C5F-9390-C8F89D0CFAAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75640133-3345-4C5F-9390-C8F89D0CFAAA}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{75640133-3345-4C5F-9390-C8F89D0CFAAA}.Debug|ARM64.Build.0 = Debug|ARM64
+		{75640133-3345-4C5F-9390-C8F89D0CFAAA}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{75640133-3345-4C5F-9390-C8F89D0CFAAA}.Debug|x64.ActiveCfg = Debug|x64
+		{75640133-3345-4C5F-9390-C8F89D0CFAAA}.Debug|x64.Build.0 = Debug|x64
+		{75640133-3345-4C5F-9390-C8F89D0CFAAA}.Debug|x64.Deploy.0 = Debug|x64
+		{75640133-3345-4C5F-9390-C8F89D0CFAAA}.Release|ARM64.ActiveCfg = Release|ARM64
+		{75640133-3345-4C5F-9390-C8F89D0CFAAA}.Release|ARM64.Build.0 = Release|ARM64
+		{75640133-3345-4C5F-9390-C8F89D0CFAAA}.Release|ARM64.Deploy.0 = Release|ARM64
+		{75640133-3345-4C5F-9390-C8F89D0CFAAA}.Release|x64.ActiveCfg = Release|x64
+		{75640133-3345-4C5F-9390-C8F89D0CFAAA}.Release|x64.Build.0 = Release|x64
+		{75640133-3345-4C5F-9390-C8F89D0CFAAA}.Release|x64.Deploy.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {632425DD-52E1-4827-8092-79D4A1829046}
+	EndGlobalSection
+EndGlobal
